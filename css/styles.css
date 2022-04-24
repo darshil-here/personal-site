@@ -19,7 +19,7 @@
 }
 
 nav {
-  background-image: url("/img/circle.png");
+  background-image: url("img/circle.png");
   background-size: cover;
   background-position: right;
   padding: 10% 5% 15% 15%;
